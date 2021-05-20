@@ -1,0 +1,19 @@
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\bin\Debug\Tomogram_visualizer.exe.config
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\bin\Debug\Tomogram_visualizer.exe
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\bin\Debug\Tomogram_visualizer.pdb
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\bin\Debug\OpenTK.dll
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\bin\Debug\OpenTK.GLControl.dll
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\bin\Debug\OpenTK.pdb
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\bin\Debug\OpenTK.xml
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\bin\Debug\OpenTK.dll.config
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\bin\Debug\OpenTK.GLControl.xml
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\obj\Debug\Михайлова, Сироткина, Гондурова_tomogram_visualizer.csprojAssemblyReference.cache
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\obj\Debug\Tomogram_visualizer.Form1.resources
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\obj\Debug\Tomogram_visualizer.Properties.Resources.resources
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\obj\Debug\Михайлова, Сироткина, Гондурова_tomogram_visualizer.csproj.GenerateResource.cache
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\obj\Debug\Михайлова, Сироткина, Гондурова_tomogram_visualizer.csproj.CoreCompileInputs.cache
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\obj\Debug\Михайлова, Сироткина, Гондурова_tomogram_visualizer.csproj.CopyComplete
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\obj\Debug\Tomogram_visualizer.exe
+C:\Users\mimik\Desktop\Tomogram_visualizer\Лр2 Михайлова, Гондурова, Сироткина\Tomogram_visualizer\obj\Debug\Tomogram_visualizer.pdb
